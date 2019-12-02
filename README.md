@@ -1,4 +1,4 @@
-## Honeycomb Instrumentation Examples
+# Honeycomb Instrumentation Examples
 
 The full power of Honeycomb is unlocked by proper instrumentation, especially at
 the code level. The examples in this repository will help guide you
