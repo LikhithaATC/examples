@@ -50,4 +50,4 @@ by [filing an issue](https://github.com/honeycombio/examples/issues/new) and CC-
 for discussion.
 
 Let us know if there is something specific you'd like to see by [filing an
-issue](https://github.com/honeycombio/examples/issues/new)
+issue](https://github.com/honeycombio/examples/issues/new)...
